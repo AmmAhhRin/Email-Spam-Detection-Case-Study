@@ -21,7 +21,7 @@ Two classification models were developed and compared:
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. Clone the repo or download the notebook file.
 2. Make sure you have Python installed with the following packages:
@@ -64,7 +64,7 @@ Two classification models were developed and compared:
 
 ---
 
-## 🧾 References
+## References
 See the `Email Spam Detection Case Study.pdf` for a detailed list of sources and image credits.
 
 ---
